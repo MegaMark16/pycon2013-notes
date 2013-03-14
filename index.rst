@@ -7,6 +7,8 @@
 PyCon 2013 Schedule & Notes
 ==========================
 
+Mark Ransom's live notes from PyCon US 2013.
+
 Thursday
 ======
 
