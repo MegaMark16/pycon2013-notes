@@ -7,6 +7,16 @@
 PyCon 2013 Schedule & Notes
 ==========================
 
+Thursday
+======
+
+.. toctree::
+   :maxdepth: 2
+
+   thursday/tutorial_1
+   thursday/tutorial_2
+   
+
 Friday
 ======
 
