@@ -13,7 +13,7 @@ Thursday
 ======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    thursday/tutorial_1
    thursday/tutorial_2
@@ -23,7 +23,7 @@ Friday
 ======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    friday/keynote_1
    friday/keynote_2
@@ -41,7 +41,7 @@ Saturday
 ========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    saturday/lightning_talks.rst
    saturday/keynote_1
@@ -58,7 +58,7 @@ Sunday
 ======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    sunday/lightning_talks
    sunday/keynote
